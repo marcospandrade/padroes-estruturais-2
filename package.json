@@ -8,7 +8,7 @@
         "run:class": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules --respawn src/Api.ts",
         "run:method": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules --respawn src/Greeter.ts",
         "run:property": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules --respawn src/Movie.ts",
-        "dev": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules --respawn src/greeter.ts",
+        "dev": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules --respawn src/Repository.ts",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
