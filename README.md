@@ -5,9 +5,7 @@
 No typescript temos alguns tipos de Decorators que são, comumente usados com Factories.
 No projeto temos exemplos de três desses tipos: Class, Property, Method decorator.
 
-
-
-### Instalação de dependências: 
+### Instalação de dependências:
 
 ```
 yarn install
@@ -31,8 +29,15 @@ yarn run:class
 yarn run:method
 ```
 
+### Para rodar o exemplo de QueryValidate
+
+```
+yarn dev
+```
 
 #
+
 ### Alunos:
-* Marcos Andrade: 1822241
-* Michel Silva: 2112094
+
+-   Marcos Andrade: 1822241
+-   Michel Silva: 2112094
