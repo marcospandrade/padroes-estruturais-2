@@ -1,17 +1,38 @@
-### Padrões estruturais
+# Padrões estruturais
 
-#### Decorator
+## Decorator
 
-Para rodar o projeto:
+No typescript temos alguns tipos de Decorators que são, comumente usados com Factories.
+No projeto temos exemplos de três desses tipos: Class, Property, Method decorator.
+
+
+
+### Instalação de dependências: 
 
 ```
 yarn install
-
-yarn start
 ```
 
-#### Alunos:
+### Para rodar um exemplo de Property Decorator
 
--   Marcos Andrade: 1822241
+```
+yarn run:property
+```
 
--   Michel Silva: 2112094
+### Para rodar um exemplo de Class Decorator
+
+```
+yarn run:class
+```
+
+### Para rodar um exemplo de Method Decorator
+
+```
+yarn run:method
+```
+
+
+#
+### Alunos:
+* Marcos Andrade: 1822241
+* Michel Silva: 2112094
